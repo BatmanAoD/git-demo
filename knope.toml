@@ -1,5 +1,5 @@
 [package]
-versioned_files = ["go.mod"]
+versioned_files = ["subdir/go.mod"]
 
 [[workflows]]
 name = "release"
